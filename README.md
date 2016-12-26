@@ -1,2 +1,4 @@
-# my_coding_notes
-my coding notes repository
+# 我的学习笔记
+
+从evernote整理记录
+
